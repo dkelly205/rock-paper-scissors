@@ -1,0 +1,13 @@
+h1 {
+  color: DodgerBlue;
+  text-align: left;
+  font-family: monospace;
+}
+
+ul{
+  list-style-type: none;
+}
+
+a{
+text-decoration: none;
+}
